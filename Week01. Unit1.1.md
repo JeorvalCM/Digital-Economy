@@ -32,6 +32,8 @@ It is an economic system which is based mainly on the generation of wealth and o
 ## 3.- Do you think there is an economic system that is better than capitalism? Why? 
 
 The answer may vary. .-. 
+There is not right and wrong answer, but depends on the justification; for instance, it can be answered that communism is better because there are not people that get extremely rich or something like that.
+
 
 ## 4.- What do you think is the most important industrial revolution for the digital economy among the 4 revolutions that have emerged? Why? 
 
@@ -56,7 +58,7 @@ The answer can be several although those are the most popular
 
 ## 8.- What do you think is the next thing that defines the difference between the 4th and 5th industrial revolution? 
 
- 
+ Answer can vary since is more a personal point of view, but can talb about the development of some technollogies such as computing.
 
 ## 9.- Mention a common example of digital economy, justify your answer. 
 
@@ -64,6 +66,7 @@ It could be any for-profit digital medium
 
 ## 10.- Do you think that the digital economy helps companies today? Otherwise. Why? 
 
+Answer can vary, but the optimal is that digital economy has helped most of companies allowing to grow easily and have more exposoure.
 
 ## 11. Mention some fields where digital economy is present. 
 
