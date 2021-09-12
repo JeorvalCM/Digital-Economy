@@ -1,4 +1,4 @@
-# Part 1
+# Part 1 - Essay / Research
 ## Describe the historical context of the digital economy
 At this time it is difficult to realize where we at in terms of Digital Economy, this because the pandemic change lots of aspects of our lives, there where some practices that were not upgraded because there was no need to upgrade, many industries such as banking industries were moving forwards to bet in digital transformation, despite this, the pandemic carry new challenges to solve and many policies that needed to be implemented and dig out in order to provide the best service possible and to help to other industries to keep up with their own activities, making applications powered by security and innovative approaches. 
 
@@ -17,6 +17,100 @@ In terms of economy, we believe that we should not expect more formal employment
 
 In terms of education, for 4th industry has also been an important aspect to talk about whenever we want to highlight the benefits that this 4th industry has support. And to sum up, the pandemic forced many different enterprises to begin the digitalization of their business to be more productive. We hope that the challenges that are needed to be solved are accomplished, and that no power let the technology evolve.  
  
+
+
+# Part 2 - Questions & Answers
+
+## 1.- If you could describe the digital economy in one word or sentence, what would it be? 
+
+The answer can be varied, for example: it is the economy based on the use of ICT 
+
+## 2.- What is capitalism? 
+
+It is an economic system which is based mainly on the generation of wealth and obtaining resources through the labor market. (May vary) 
+
+## 3.- Do you think there is an economic system that is better than capitalism? Why? 
+
+The answer may vary. .-. 
+
+## 4.- What do you think is the most important industrial revolution for the digital economy among the 4 revolutions that have emerged? Why? 
+
+As a team we suggest the third industrial revolution since it was the point where technology gave a great boost to the economy and in the same way it gave the beginning of the digital economy. The answer may vary. 
+
+## 5.- In which industrial revolution did capitalism emerge? 
+
+In the 2nd industrial revolution 
+
+## 6.- What do you think is the economic system that stood out before the industrial revolutions talking about capitalism, communism, socialism, etc. 
+
+The answer can be several but it is mentioned that before the industrial revolution the economic system was through exchanges, either agriculture, livestock, etc. 
+
+## 7.- Mention 1 thing that defines each of the industrial revolutions mentioned 
+
+* 1st Revolution: Steam engines, water engines 
+* 2nd Revolution: Electricity, Oil and Capitalism 
+* 3rd Revolution: Informatics, automation 
+* * 4th Revolution: IoT 
+
+The answer can be several although those are the most popular 
+
+## 8.- What do you think is the next thing that defines the difference between the 4th and 5th industrial revolution? 
+
+ 
+
+## 9.- Mention a common example of digital economy, justify your answer. 
+
+It could be any for-profit digital medium 
+
+## 10.- Do you think that the digital economy helps companies today? Otherwise. Why? 
+
+
+## 11. Mention some fields where digital economy is present. 
+
+The answer may vary. Security, telecommunications, retail, cloud computing, robotics. 
+
+## 12.  Digital economy is relying on? 
+Personal data 
+
+## 13. Why digital economy is qualified as “intangible capitalism”? 
+
+Answers my vary. Fosters inequality and social division since the digital economy based on intangible assets cannot yet be legislated. 
+
+## 14. Is the digital economy the solution to economic inequality? 
+
+Answer may vary. The digital economy is changing the way we live, although, thanks to the digital economy, new jobs and new technological solutions have been created to improve our lifestyle, it is not even, the trend continues to capitalize on the system, from the second industrial revolution capitalism has been present and has remained as a system that governs us, because of this, the digital economy will only benefit the new generations that have access to education. 
+
+## 15. Why digital economy is important in commerce? 
+
+Thanks to digital economy, e-commerce was born, for that reason, digital economy in commerce enables firms to cut out an aspect of the retail chain and send personalized goods direct from factory or warehouse to people's goods, rather than through shops. This enables lower costs and lower prices.  
+
+## 16. Complete the transition between traditional economy and digital economy: 
+
+Newspapers... social media reviews 
+
+Schools/textbooks... e-learining/e-books 
+
+High street shops... online stores 
+
+## 17. Mention 3 advantages of digital economy 
+
+Saves time: thanks to digital economy we can buy in online stores and get the product the next day! 
+
+Reduce costs: Thanks to the digital economy we can save ourselves from setting up a physical business and setting up everything online and that the products go directly from the warehouses to the customer 
+
+Home office: Given the nature of digital economy, work tasks can be done at home 
+
+## 18. Mention 3 features of digital economy. 
+
+Connected, personalized and direct. 
+
+## 19. What other names is the digital economy known by? 
+
+Internet economy, new economy, or web economy. 
+
+## 20. Mention some reasons for which the competition in the digital ecosystem is very intense. 
+
+ lower buyer’s cost, speedy comparison, differentiation and personalization, lower prices, customer service. 
 
 
 
