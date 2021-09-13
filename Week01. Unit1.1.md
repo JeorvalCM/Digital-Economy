@@ -7,6 +7,17 @@
 ## Describe the historical context of the digital economy
 At this time it is difficult to realize where we at in terms of Digital Economy, this because the pandemic change lots of aspects of our lives, there where some practices that were not upgraded because there was no need to upgrade, many industries such as banking industries were moving forwards to bet in digital transformation, despite this, the pandemic carry new challenges to solve and many policies that needed to be implemented and dig out in order to provide the best service possible and to help to other industries to keep up with their own activities, making applications powered by security and innovative approaches. 
 
+So In order to understand what we are seeing today, It is necessary to talk about the impact in the economy in the daily life. The digital economy have some parameters that can be expressed in the impact that the technology has over the business, the digital economy in terms of the advances that can be used by the different branches of interest, this is specifically mention in the OECD book, where they mention 7 different sectors that we should be able to apply the different technological advances to.  The sectors are the following: 
+- Retail 
+- Transport an d Logistics
+- Finnancial Services
+- Manufactoring and Agricuture
+- Education
+- Healthcare
+- Broadcasting and media
+
+So as it can be seen in the list the digital economy has been evolving through time and as result we can take advantage of all the new technological advances, and make a better job in matter of the conditions of the enterprises, and the result of each of the different sectors. We can expect a better outcome every time that the digital economy evolves. Basically because it is backed in science and technology. 
+
 ## Describe the use of information technology in economic crises
 We believe that there are many aspects of the nowadays system that have contribute to the actual economic crisis, some of the different sources aims that a big part of the problems that we are facing right now is the capitalism, to be able to monetize every part of a process is one of the most incredible features of it, nevertheless, the great gap in this process is that the people how own most of the money that the monetization come from does not spend it in the right areas, because as much as they generates, the debt increase directly proportional, by reading some books there is a new concept that has a direct relation with the use of the information technology and were it merges with the economic crisis and it is the concept of data capitalism. 
 
