@@ -1,3 +1,8 @@
+# Team Members:
+* Cano Jeorval
+* Hernández Andrés
+* Vives Walter
+
 # Part 1 - Essay / Research
 ## Describe the historical context of the digital economy
 At this time it is difficult to realize where we at in terms of Digital Economy, this because the pandemic change lots of aspects of our lives, there where some practices that were not upgraded because there was no need to upgrade, many industries such as banking industries were moving forwards to bet in digital transformation, despite this, the pandemic carry new challenges to solve and many policies that needed to be implemented and dig out in order to provide the best service possible and to help to other industries to keep up with their own activities, making applications powered by security and innovative approaches. 
