@@ -130,6 +130,23 @@ Internet economy, new economy, or web economy.
 ## 20. Mention some reasons for which the competition in the digital ecosystem is very intense. 
 
  lower buyer’s cost, speedy comparison, differentiation and personalization, lower prices, customer service. 
+ 
+ # References
+* https://www.demos.org/research/data-capitalism-and-algorithmic-racism#What-is-Data-Capitalism?
+
+* https://www.oecd.org/publications/the-next-production-revolution-9789264271036-en.htm
+
+* http://cfacal.webs.uvigo.es/04esquema3_1.htm#:~:text=*%20Durante%20la%20Revoluci%C3%B3n%20Industrial%20en,y%20con%20ligeras%20mejoras%20de
+
+* https://richmondvale.org/en/blog/second-industrial-revolution-the-technological-revolution
+
+* https://www.eleconomista.com.mx/opinion/La-tercera-revolucion-industrial-20120710-0008.html
+
+* https://economipedia.com/definiciones/tercera-revolucion-industrial.html
+
+* https://www.bbc.com/mundo/noticias-37631834
+
+* https://www.interempresas.net/Robotica/Articulos/253319-El-impacto-industrial-y-laboral-de-la-economia-40.html
 
 
 
