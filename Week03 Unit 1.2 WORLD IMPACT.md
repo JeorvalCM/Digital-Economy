@@ -42,10 +42,24 @@ These are some of the basic business-based indicators:
 - Proportion of businesses with an intranet: This indicator alludes to the proportion of companies that have an intranet, which is a network under the same protocol as the Internet allowing communication between the company.
 
 ## Explain strategic data analysis
+* Collaboration with all stakeholders: A recommendation before starting any analysis or exploration of the data is to have good communication and working environment with all the interested parties to the project or objective, in order to benefit our analysis and vision of the project objective. 
 
+* Make question	s: The simple fact of asking questions that direct us to the objective of our mission is one of the most important data analysis techniques because it provides the basis for the success of the analysis.   
+
+* Data democratization: The reason for this strategy is to associate information from different sources in an effective and quick manner with the goal that anybody keen on the task can get to the information whenever and there are no potential issues in the workplace. 
+
+* Integrate technology: A crucial decision is to integrate the technology and software to be used for the statistical method of data analysis. Choosing the right technology and software will avoid fragmentation of the knowledge obtained, which translates into savings of time and effort. 
 
 ## Describe ICT patents
+Patents safeguard technological productions, i.e., products or processes that provide novel ways of doing something or novel technological resolutions to problems and play an important role in shaping the digital world. This is the reason why it is used as an indicator in the technological field and covers areas such as: 
 
+* High-speed network. 
+
+* High-speed computing. 
+
+* Mobile communication. 
+
+* Large-capacity information analysis. 
 
 ## Describe the impact in other areas: telecommunications, health, agriculture, science, energy.
 
