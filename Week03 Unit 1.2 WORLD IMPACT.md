@@ -27,7 +27,19 @@ Some categories or approaches of these indicators are the following:
 - Core indicators on access to, and use of, ICT by households and individual.
 
 ## Identify and describe ICT-based business models
+These are some of the basic business-based indicators:
 
+- Proportion of businesses using computers: this point alludes to the utilization of PCs that an organization utilizes during a year time frame. Not forgetting that this can be both portable and non-portable, but not a small component such as smartphones.
+
+- Proportion of employees using computers: This indicator refers to the proportion of employees using a computer in the company, that is, used for the employee's work over a 12-month period and not merely computer access. As with the previous indicator, smartphones or similar objects are not counted as computers.
+
+- Proportion of businesses using the Internet: Refers to the use and access to the Internet in the company in a 12-month reference period, either through a computer or any smart device.
+
+- Proportion of employees using the Internet: this indicator means the proportion of employees who used the Internet to perform their work in a 12-month period and not the simple fact of having access to the Internet.
+
+- Proportion of businesses with a Web presence: Means the measure of the proportion of companies that have a presence on the Internet, that is, a domain and website and control over it.
+
+- Proportion of businesses with an intranet: This indicator alludes to the proportion of companies that have an intranet, which is a network under the same protocol as the Internet allowing communication between the company.
 
 ## Explain strategic data analysis
 
