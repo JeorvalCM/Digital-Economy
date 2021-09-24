@@ -74,6 +74,17 @@ As far as science and energy we can say that it has basically helped in the opti
 
 ## Identify the historical stages of the development of technology.
 
+Basically there are several "stages" for the development of the technology but we can see it in a more reduced way, for example:
+
+Use of material
+This phase is very difficult to consider as technology since for us technology is everything that involves things like robots, telephones, etc., even so, the first important step was the manufacture of tools for human use such as hammers, achas, etc.
+
+Energy use
+This phase involves several steps since, as we saw previously, it could cover the 1st and 2nd industrial revolutions since it is the beginning of the use of steam engines, fossil fuels, electricity.
+
+Use of information
+Finally we could say that this stage covers the 3rd and 4th industrial revolution since it is the beginning of the information age, what we call "technology", computers, telecommunications, etc.
+
 
 ## Identify the relevant indicators of the digital economy.
 
