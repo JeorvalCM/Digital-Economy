@@ -98,26 +98,26 @@ AI is being used to monitor and predict the spread of Covid-19 in real time, but
 * Proportion of businesses with an intranet.
 
 
-## 4. Do you consider that the Covid-19 pandemic benefited Mexico in the digital economy? And why? 
+## 4. Do you consider that the Covid-19 pandemic benefited Mexico in the digital economy? And why? (Pablo)
 The answer may vary, but in general pandemic has benefited Mexico, since it obtained a 35% growth in Industry 4.0 and many companies realized the importance of this industry.
 
-## 5. Which IT or technology fields are key to the growth of the digital economy?
+## 5. Which IT or technology fields are key to the growth of the digital economy? (Pablo)
 IA, distributed technology accounting (DTL) and quantum computing.
 
-## 6. How will quantum computing help us?
+## 6. How will quantum computing help us? (Pablo)
 The answer can vary, but in general Thanks to quantum computing, it will be possible to solve problems that require too much computing power and that are the biggest problems of humanity, since a quantum computer has more computing power, more memory capacity, and less energy consumption.
 
-## 7. Do you consider that Mexico needs to further increase its ICT indicators and why?
+## 7. Do you consider that Mexico needs to further increase its ICT indicators and why? (Pablo)
 Mexico definitely needs to improve its ICT indicators, as this allows for greater development in the digital economy, and without forgetting that they are useful in inclusion, social cohesion and for follow-up and evaluation of the impact of ICT on economic and social development. 
 
 
-## 8. what are two standard or basic business-based ICT indicators?
+## 8. what are two standard or basic business-based ICT indicators? (Pablo)
 The answer can vary in different indicators, for example it could be Proportion of employees using computers & Proportion of businesses using computers.
 
-## 9. what is the difference between the indicator proportion of businesses using the Internet & proportion of employees using the Internet? 
+## 9. what is the difference between the indicator proportion of businesses using the Internet & proportion of employees using the Internet? (Pablo)
 The first refers to the company's use of the Internet on any device and the second refers to the proportion of employees who use the Internet to perform their work.
 
-## 10. What conflict do you think there might be in wanting the analysis to be understandable and readable for all project stakeholders? 
+## 10. What conflict do you think there might be in wanting the analysis to be understandable and readable for all project stakeholders? (Pablo)
 Overwork and perhaps underpayment for the work, plus you may look bad to some stakeholders by not satisfying their needs or "whims".
 
 
