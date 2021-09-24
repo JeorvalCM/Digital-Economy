@@ -75,13 +75,27 @@ Patents safeguard technological productions, i.e., products or processes that pr
 
 # Part 2 - Questions & Answers
 
-## 1.
+## 1.  How did the digital economy helps to the situation of Covid? (Jeorval)
+
+AI is being used to monitor and predict the spread of Covid-19 in real time, but this is certainly only one of many fields where it can be applied. As for DTL the blockchain has become the most popular among financial markets as it allows to store data in such a way that it is almost impossible to falsify, finally with quantum computing it is expected to accelerate research and innovation in different fields such as agriculture, energy, aircraft manufacturing, etc.
 
 
-## 2. 
+## 2. List the approaches of the ICT indicators. (Jeorval)
+
+* Core indicators on ICT infrastructure and access.
+* Core indicators on the ICT sector and trade in ICT goods.
+* Core indicators on use of ICT by businesses.
+* Core indicators on access to, and use of, ICT by households and individual.
 
 
-## 3.
+## 3. List at least 3 ICT bases business models (Jeorval)
+
+* Proportion of businesses using computers.
+* Proportion of employees using computers.
+* Proportion of businesses using the Internet.
+* Proportion of employees using the Internet.
+* Proportion of businesses with a Web presence.
+* Proportion of businesses with an intranet.
 
 
 ## 4.
