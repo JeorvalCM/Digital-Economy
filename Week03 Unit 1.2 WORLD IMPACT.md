@@ -163,3 +163,19 @@ Safeguard technological productions
 
 
 # References
+
+* Zhongming, Z., Linong, L., Wangqiang, Z., & Wei, L. (2020). OECD Digital Economy Outlook 2020. 
+
+* Economía 3. (2021, September 13). ¿Qué es la economía digital y cuál ha sido su desarrollo con la tecnología? Economia3. https://economia3.com/que-es-la-economia-digital/ 
+
+* The digital economy is creating widespread opportunities in the emerging world. (2020, October 10). Oxford Business Group. https://oxfordbusinessgroup.com/overview/bridging-divide-ever-expanding-digital-economy-creating-widespread-opportunities-0 
+
+* K. P., I. C. T. (n.d.). ICT Indicators | ICT Knowledge Portal. Dict.Gov. Retrieved September 23, 2021, from https://dict.gov.ph/ictstatistics/ict-indicators/ 
+
+* Robert, S. (2005). Core ICT Indicators: Partnership on Measuring ICT for Development. UNESCWA, Geneva. 
+
+* Calzon, B. (2021, June 7). What Is Data Analysis? Methods, Techniques, Types & How-To. BI Blog | Data Visualization & Analytics Blog | Datapine.https://www.datapine.com/blog/data-analysis-methods-and-techniques/#data-analysis- 
+
+* Liberty, D. (2019, January 9). 5 Techniques to Take Your Data Analysis Methodology to Another Level. Sisense. https://www.sisense.com/blog/5-techniques-take-data-analysis-another-level/ 
+
+* The Role of Patents in ICT: A Survey of the Literature, Stefano Comino et al. (2017) available at https://www.researchgate.net/publicatio/318040107_The_Role_of_Patents_in_Information_and_Communication_Technologies_IC
