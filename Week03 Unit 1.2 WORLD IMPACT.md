@@ -121,13 +121,23 @@ The first refers to the company's use of the Internet on any device and the seco
 Overwork and perhaps underpayment for the work, plus you may look bad to some stakeholders by not satisfying their needs or "whims".
 
 
-## 11.
+## 11. Describe the Proportion of employees using computers business model. (Jeorval)
+
+This indicator refers to the proportion of employees using a computer in the company, that is, used for the employee's work over a 12-month period and not merely computer access. As with the previous indicator, smartphones or similar objects are not counted as computers.
 
 
-## 12. 
+## 12. What is the main goal of the ICT patents? (Jeorval)
 
+Safeguard technological productions
 
-## 13.
+## 13. What areas does the ICT patents covers? (Jeorval)
+* High-speed network.
+
+* High-speed computing.
+
+* Mobile communication.
+
+* Large-capacity information analysis.
 
 
 ## 14.
