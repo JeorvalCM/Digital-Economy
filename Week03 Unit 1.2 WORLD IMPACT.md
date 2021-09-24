@@ -63,6 +63,14 @@ Patents safeguard technological productions, i.e., products or processes that pr
 
 ## Describe the impact in other areas: telecommunications, health, agriculture, science, energy.
 
+The digital economy has had a great impact on the world from technology to life in the country, for better or for worse. Knowing this, let's talk about the field of telecommunications, this area has been one of the most affected on a large scale since as we know as the name says "Digital economy" everything is handled through digital, by technology, so Therefore, telecommunications were greatly affected in the infrastructure part since it is the only means by which the digital economy proliferates in the same way it had to be improved as software to have an optimized flow of all the information.
+
+On the part of health, it has grown in a great way as the digital economy in the health sector has helped to improve all transactions in terms of machines, medicines as well as the flexibility of obtaining these, basically the most representative here is the ease of obtaining articles for the health sector. On the other hand, I have grown up in the field of creating bots or similar since there are some that are paid or like medical resources and their online store.
+
+On agriculture it has impacted in the area of technology entry since this area had almost no access but what most affected or could affect was the fact that those who are in charge of the agricultural area can obtain their articles by means of digital, as we know previously they had to go to establishments or companies to obtain their articles for their area, now they only have to search digitally for what they need, in the same way it has helped the implementation of various types of resources for the improvement of this area such as field analysis, field studies, etc.
+
+As far as science and energy we can say that it has basically helped in the optimization of obtaining resources, it is already bought of any kind through digital means, on the other hand we could say that it has affected in terms of energy use since when growing in the telecommunications field more energy is needed.
+
 
 ## Identify the historical stages of the development of technology.
 
