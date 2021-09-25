@@ -113,6 +113,23 @@ Economic support for the logistical growth of the company.
 
 
 ## Identify the impact of ICTs in other areas.
+### Education
+The use of "ICTs" in education has had a great impact on education, affecting education models, in addition to modifying the mode of communication and school training due to the introduction of technology.
+
+* Potential increase in interest in certain subjects.
+* Increased motivation.
+* Facilitates communication.
+* Encourage cooperation.
+* Interactivity.
+* Greater autonomy.
+* Continuous intellectual activity.
+* Boost initiative and creativity.
+
+### Social
+In society it has had a great impact on the way of communication between people, today there are social networks which is the main means of communication in society today as well as the entertainment of people, in general has improved the people's way of life.
+
+### Economy
+This is one of the most notable since the economy has grown exponentially due to the doors that are given thanks to tics, for example, the digital economy is one of the terms that was born thanks to the implementation of tics with the economy.
 
 
 # Part 2 - Questions & Answers
