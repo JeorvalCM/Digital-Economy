@@ -76,17 +76,40 @@ As far as science and energy we can say that it has basically helped in the opti
 
 Basically there are several "stages" for the development of the technology but we can see it in a more reduced way, for example:
 
-Use of material
+- Use of material
 This phase is very difficult to consider as technology since for us technology is everything that involves things like robots, telephones, etc., even so, the first important step was the manufacture of tools for human use such as hammers, achas, etc.
 
-Energy use
+- Energy use
 This phase involves several steps since, as we saw previously, it could cover the 1st and 2nd industrial revolutions since it is the beginning of the use of steam engines, fossil fuels, electricity.
 
-Use of information
+- Use of information
 Finally we could say that this stage covers the 3rd and 4th industrial revolution since it is the beginning of the information age, what we call "technology", computers, telecommunications, etc.
 
 
 ## Identify the relevant indicators of the digital economy.
+
+- Demand
+It refers to the level of demand for the product that the merchant receives, in that case, for the digital economy, the level of demand that is used must be taken into account
+
+- Gross Domestic Product
+It is an economic indicator that reflects the monetary value of all the final goods and services produced by a territory in a certain period of time.
+
+- Imports
+One of the bases of the digital economy is the importation of products, which is an important indicator that must be taken into account for the digital economy.
+
+- Exports
+Export is the other basis of the digital economy for the delivery of products.
+
+- Private consumption
+The economic consumption that the company makes to subsist
+
+- Public consumption
+Economic consumption made by outsiders that make the company subsist
+
+- Public investment
+Economic support for the logistical growth of the company.
+
+
 
 
 ## Identify the impact of ICTs in other areas.
