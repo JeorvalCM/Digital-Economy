@@ -198,27 +198,27 @@ Safeguard technological productions
 
 * Large-capacity information analysis.
 
-
-## 14.
-
-
-## 15.
+## 14. What is the impact on telecommunication that the digital economy gave?
+The answer can vary in different indicators.
 
 
-## 16.
+## 15. What is the impact on the health sector that the digital economy gave?
+The answer can vary in different indicators.
 
 
-## 17.
+## 16. What is the impact on the agricultural sector that the digital economy gave?
 
 
-## 18.
+## 17. What is the impact on science and energy that the digital economy gave?
 
 
-## 19.
+## 18. What are the digital economy indicators according to the reading?
 
 
-## 20.
+## 19. What is the impact on society, education and economy of ICTs?
 
+
+## 20. Besides those described, what other areas do you think ICTs have impacted?
 
 
 # References
