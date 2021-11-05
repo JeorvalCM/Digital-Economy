@@ -93,10 +93,13 @@ Completely agree, artificial intelligence and machine learning need data to be f
 Undoubtedly, perhaps careers such as law, administration, or accountancy, not at a master level, but to have knowledge and examples of use, because thanks to it, and this can help it to be used in different areas and thus obtain benefits.
 
 
-## 5.
+## 5.- why do you think big data has become popular? (Jeorval)
 
+Perhaps one of the reasons is the name it was given, as it sounds attractive, but the truth is that it became more popular and used with the advent of the internet of things and mobile technology, as more and more data started to be produced. 
 
-## 6.
+## 6.- big data or cloud computing and why? (Jeorval)
+
+They are two different things or without any comparison between them, so there is no winner; However, they are related, because cloud computing can be used to store large amounts of data as well as process it. 
 
 
 ## 7.
