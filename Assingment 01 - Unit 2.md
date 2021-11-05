@@ -102,13 +102,17 @@ Perhaps one of the reasons is the name it was given, as it sounds attractive, bu
 They are two different things or without any comparison between them, so there is no winner; However, they are related, because cloud computing can be used to store large amounts of data as well as process it. 
 
 
-## 7.
+## 7.- Do you see companies eventually using only cloud computing and why? (Jeorval)
 
+Most probably yes in small or medium companies, because they can only pay for the usage and not for the infrastructure that need them. As for large companies, it may take them longer to start using it.  
 
-## 8.
+## 8.- what are the "v's" about big data? (Jeorval)
 
+Volume, velocity, variety, veracity viability, visualization, and value all of them related to data. 
 
-## 9.
+## 9.- Why do you think blockchain is still not popular? (Jeorval)
+
+Because people be afraid that it is not entirely secure and because of the lack of information or examples of use they may have, these factors were discussed in the talk we had about the blockchain and it was commented that more examples of use would help it to be used, for example that our university degrees would be transacted with blockchain. 
 
 
 ## 10.
