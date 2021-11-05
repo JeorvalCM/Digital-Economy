@@ -55,9 +55,11 @@ The main characteristics of cloud computing are:
 
 
 ## What is Blockchain?
+Hyperledger is a technology that has been developed by the Linux Foundation in 2013, where they wanted to develop the use of blockchain among the different enterprises, this way they could take advantage of the technologies that are around the cryptocurrencies, and the development of that area to ensure that the commerce between enterprises is crawled. Because of this, there are many different enterprises that have been helping to develop this technology, enterprises such as IBM, Intel, Accenture, etc, provide support to Hyperledger. There are enterprises for all different industries. It should be able to create a network between technologies. There are some frameworks that let us integrate out block chain in our business logic. We can have tools that can allow us to make some intelligent contracts with most common tasks. 
 
 
 ## What is hyperledger
+
 
 
 ## Financial transactions
