@@ -85,10 +85,12 @@ In general, this depends on where it is being used and how the company or person
 Definitely sticking to change, i.e. just as machine learning and AI can help us automate things and even help create jobs, these jobs will require knowledge in new areas or with skills that older generations may find difficult. 
 
 
-## 3.
+## 3. Do you consider that artificial intelligence and machine learning can be used in all or almost all types of companies in the world and why?
+Completely agree, artificial intelligence and machine learning need data to be fed and executed, i.e., data, which is everywhere, is like fuel and with-it companies can surprise strategies or results in conjunction with AI & ML.
 
 
-## 4.
+## 4. Do you think that all careers should study a bit about AI and machine learning and why?
+Undoubtedly, perhaps careers such as law, administration, or accountancy, not at a master level, but to have knowledge and examples of use, because thanks to it, and this can help it to be used in different areas and thus obtain benefits.
 
 
 ## 5.
