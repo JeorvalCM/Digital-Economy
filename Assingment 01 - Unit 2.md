@@ -146,7 +146,8 @@ The student might find E-Gold, and should explain the value of that currency and
 ## 15.- What is your opinion about this article, do you think it affects the acceptance of digital currencies in the occidental civilization? [link](https://www.bbc.com/news/technology-58678907)  (Andres)
 
 
-## 16.- What do you think about the cryptocurrencies as investment?(Andres)
+## 16.- What do you think about the cryptocurrencies as investment?(Pablo)
+It is a matter of each person and the probabilities, that is to say, as well as it can be a great investment it can be the opposite, however we emphasize that it is very volatile so it is not advisable as we talked about in the class.
 
 
 ## 17.- Do you consider that there will be more obstacles that frustrates the use of digital currencies in the future? (Pablo)
