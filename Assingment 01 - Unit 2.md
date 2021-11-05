@@ -52,13 +52,17 @@ Some of the areas where there will be more work thanks to ML are as follows:
 ## Technical obstacles and political challenges (like bitcoin in El Salvador country)
 
 
-# Part 2 * Questions & Answers
+# Part 2 - Questions & Answers
 
 
-## 1.
+## 1. Do you think artificial intelligence will always make us more efficient or productive, and why? (Jeorval)
+
+In general, this depends on where it is being used and how the company or person uses the time gained, for example smart devices can make a person lazy to set alarms, turn on and/or turn off appliances or on the contrary it can make it easier to do this with other activities in parallel.
 
 
-## 2.
+## 2. What do you think are the disadvantages of artificial intelligence and ML? (Jeorval)
+
+Definitely sticking to change, i.e. just as machine learning and AI can help us automate things and even help create jobs, these jobs will require knowledge in new areas or with skills that older generations may find difficult. 
 
 
 ## 3.
