@@ -122,47 +122,47 @@ Volume, velocity, variety, veracity viability, visualization, and value all of t
 Because people be afraid that it is not entirely secure and because of the lack of information or examples of use they may have, these factors were discussed in the talk we had about the blockchain and it was commented that more examples of use would help it to be used, for example that our university degrees would be transacted with blockchain. 
 
 
-## 10.- Can blockchain be used for the transfer of a 50 m x 20 m plot of land and why?
+## 10.- Can blockchain be used for the transfer of a 50 m x 20 m plot of land and why?(Andres)
 
 Yes or course, because anything of value can be tracked and traded on a blockchain network. 
 
-## 11.- If you wanted to create a planform with blockchain as engine, what should you use? 
+## 11.- If you wanted to create a planform with blockchain as engine, what should you use? (Andres)(Andres)
 
 The student should discuss how and why should use Hyperledger, and either if he would use it as a tool or as a framework 
 
-## 12.- What are the challenges of financial transactions?
+## 12.- What are the challenges of financial transactions?(Andres)
 
 The use of technology to ensure the correct transactions between two entities, and the political challenges that could evolved because of the context of the individuals, country, and policies that are affecting the process. 
 
-## 13.- Enlist 5 different digital currencies and its value, make a review about the value, and how they have been evolving trough time. 
+## 13.- Enlist 5 different digital currencies and its value, make a review about the value, and how they have been evolving trough time. (Andres)
 
 
 
-## 14.- Which Digital currency was the first in all history, are there governments involved in any digital currency? 
+## 14.- Which Digital currency was the first in all history, are there governments involved in any digital currency? (Andres)
 
 The student might find E-Gold, and should explain the value of that currency and why did it fail and it is not available in the internet anymore. As well talk about the CBDC. 
 
 
-## 15.- What is your opinion about this article, do you think it affects the acceptance of digital currencies in the occidental civilization? [link](https://www.bbc.com/news/technology-58678907)  
+## 15.- What is your opinion about this article, do you think it affects the acceptance of digital currencies in the occidental civilization? [link](https://www.bbc.com/news/technology-58678907)  (Andres)
 
 
-## 16.- What do you think about the cryptocurrencies as investment?
+## 16.- What do you think about the cryptocurrencies as investment?(Andres)
 
 
-## 17.- Do you consider that there will be more obstacles that frustrates the use of digital currencies in the future? 
+## 17.- Do you consider that there will be more obstacles that frustrates the use of digital currencies in the future? (Andres)
 
 The student should debate about the further obstacles, and which approaches will be the once that are going to make difficult the use of cryptocurrencies 
 
-## 18.- Do you considered that the digital currencies can be centralized?
+## 18.- Do you considered that the digital currencies can be centralized?(Andres)
 
 The student should discuss about the different governments that have tried to centralized the digital currencies, and decide under what conditions are able to be centralized 
 
-## 19.- How you think quantum computing could mean a risk to blockchain technology? [Link](https://www2.deloitte.com/nl/nl/pages/innovatie/artikelen/quantum-computers-and-the-bitcoin-blockchain.html) 
+## 19.- How you think quantum computing could mean a risk to blockchain technology? [Link](https://www2.deloitte.com/nl/nl/pages/innovatie/artikelen/quantum-computers-and-the-bitcoin-blockchain.html) (Andres)
 
 The student should read the article, and other resources in order to have a point of view about the topic. 
 
 
-## 20.- Which enterprises will be needed to evolve in case the development of technology around digital currencies speed? 
+## 20.- Which enterprises will be needed to evolve in case the development of technology around digital currencies speed? (Andres)
 
 All roles related to the bank institutions, the infrestructure will be needed to be change and develop from that advance. There are also going to be some industries like cybersecurity that will have new challenges to solve. 
 
