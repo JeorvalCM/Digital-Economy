@@ -146,16 +146,64 @@ The student might find E-Gold, and should explain the value of that currency and
 ## 15.- What is your opinion about this article, do you think it affects the acceptance of digital currencies in the occidental civilization? [link](https://www.bbc.com/news/technology-58678907)  
 
 
-## 16.
+## 16.- What do you think about the cryptocurrencies as investment?
 
 
-## 17.
+## 17.- Do you consider that there will be more obstacles that frustrates the use of digital currencies in the future? 
+
+The student should debate about the further obstacles, and which approaches will be the once that are going to make difficult the use of cryptocurrencies 
+
+## 18.- Do you considered that the digital currencies can be centralized?
+
+The student should discuss about the different governments that have tried to centralized the digital currencies, and decide under what conditions are able to be centralized 
+
+## 19.- How you think quantum computing could mean a risk to blockchain technology? [Link](https://www2.deloitte.com/nl/nl/pages/innovatie/artikelen/quantum-computers-and-the-bitcoin-blockchain.html) 
+
+The student should read the article, and other resources in order to have a point of view about the topic. 
 
 
-## 18.
+## 20.- Which enterprises will be needed to evolve in case the development of technology around digital currencies speed? 
+
+All roles related to the bank institutions, the infrestructure will be needed to be change and develop from that advance. There are also going to be some industries like cybersecurity that will have new challenges to solve. 
 
 
-## 19.
+# References
 
+[1] Nichols, J. (2021, November 4). Improving IT Productivity and Processes with  
+Artificial Intelligence. MyComputerCareer. Retrieved November 2, 2021, from  
+https://www.mycomputercareer.edu/news/improving-i-t-productivity-and-processes-with- 
+artificial-intelligence/ 
 
-## 20.
+ 
+
+[2] Great Learning Team. (2020, May 22). 10 Easy Ways to Boost Productivity using AI &  
+ML in 2019. GreatLearning Blog: Free Resources What Matters to Shape Your Career!  
+Retrieved November 2, 2021, from https://www.mygreatlearning.com/blog/easy-ways-to- 
+boost-productivity-using-ai-ml/ 
+
+ 
+
+[3] Appen. (2021, July 28). What is Automated Machine Learning? | Insight from Our  
+Experts. Retrieved November 3, 2021, from https://appen.com/blog/automl/ 
+
+ 
+
+[4] Intellias. (2021, September 28). Machine Learning & AI Development Services.  
+Retrieved November 2, 2021, from https://intellias.com/machine-learning-artificial- 
+intelligence-development-services/ 
+
+  
+
+[5] xenonstack. (n.d.). What is Big Data: Characteristics, Challenges, Tools & Use Cases.  
+Retrieved November 3, 2021, from https://www.xenonstack.com/blog/what-is-big-data 
+
+ 
+
+[6] barclayscorporate. (n.d.). What Is Blockchain? | Barclays Corporate. Retrieved  
+November 4, 2021, from https://www.barclayscorporate.com/insights/innovation/what-is- 
+blockchain/ 
+
+ 
+
+[7] Church, Z. (2017, May 25). Blockchain, explained. MIT Sloan. Retrieved November 4,  
+2021, from https://mitsloan.mit.edu/ideas-made-to-matter/blockchain-explained 
