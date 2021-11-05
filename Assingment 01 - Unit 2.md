@@ -35,6 +35,23 @@ Some of the areas where there will be more work thanks to ML are as follows:
 * Fraud detection. 
 
 ## The characteristics of big data and cloud computing.
+It is the set of data so voluminous that regular information handling programming can't deal with it. Notwithstanding, these huge volumes of information can be utilized to address business issues that beforehand would not have been imaginable to tackle [5].
+
+The main characteristics of big data are:
+* Volume: This 'v' signifies handling enormous volumes of low-density unstructured data, which might be of obscure worth, for example, Twitter information channels, click streams on a website page or portable application, or hardware with sensors.
+
+* Velocity: This "v" alludes to the rate at which data is gotten at which an activity can be applied to it. The most noteworthy pace of data is typically communicated straightforwardly to memory; however, some are in real time.
+
+* Variety: This "v" alludes to the various kinds of data accessible. Normal data are social information that could be impeccably coordinated in relational data sets; however, with the big data, unstructured and semi-organized information, like text, sound or video, require extra pre-handling to comprehend their significance and backing metadata.
+
+The main characteristics of cloud computing are:
+
+* Self-service on request: When we have cloud services the IT group can arrangement assets at whatever point they are required, without the requirement for the supplier, permitting the office to react progressively to on-request increases and erasures.
+* Extensive network access: The cloud makes administrations accessible over the network, liberating states from normalizing explicit gadgets and servers. Thusly, clients can get to administrations from any gadget, be it a cell phone, tablet, PC or work area.
+* Cluster of resources: In the cloud, an abundance of apparently limited resources can be accessed, divided between various associations. This assists them with satisfying fluctuating needs on IT.
+* Fast elasticity: The elasticity of the cloud offers you IT services that scale according to your needs, at a low cost.
+* Measured service: In the cloud, their resource usage is measured, so we don't have to pay for computing power they don't need. Instead, we only pay for what they use.
+
 
 
 ## What is Blockchain?
