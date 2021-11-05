@@ -135,7 +135,7 @@ The student should discuss how and why should use Hyperledger, and either if he 
 The use of technology to ensure the correct transactions between two entities, and the political challenges that could evolved because of the context of the individuals, country, and policies that are affecting the process. 
 
 ## 13.- Enlist 5 different digital currencies and its value, make a review about the value, and how they have been evolving trough time. (Andres)
-
+The answer can vary depending of the person. But in general, these currencies must be wrapped together, i.e. they must make logical sense to each other.
 
 
 ## 14.- Which Digital currency was the first in all history, are there governments involved in any digital currency? (Andres)
