@@ -149,11 +149,11 @@ The student might find E-Gold, and should explain the value of that currency and
 ## 16.- What do you think about the cryptocurrencies as investment?(Andres)
 
 
-## 17.- Do you consider that there will be more obstacles that frustrates the use of digital currencies in the future? (Andres)
+## 17.- Do you consider that there will be more obstacles that frustrates the use of digital currencies in the future? (Pablo)
 
 The student should debate about the further obstacles, and which approaches will be the once that are going to make difficult the use of cryptocurrencies 
 
-## 18.- Do you considered that the digital currencies can be centralized?(Andres)
+## 18.- Do you considered that the digital currencies can be centralized?(Pablo)
 
 The student should discuss about the different governments that have tried to centralized the digital currencies, and decide under what conditions are able to be centralized 
 
