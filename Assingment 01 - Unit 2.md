@@ -65,12 +65,19 @@ Hyperledger is a technology that has been developed by the Linux Foundation in 2
 
 ## Financial transactions
 
+The financial transactions are being evolving through time, this is why it is needed to make some arrangements in the structure of the current financial technologies to make achievable this goal, because even if before pandemic this technology was growing rapidly, now a days with the health measurement, it is necessary to develop these technologies to avoid using cash as payment method, to avoid contact, enterprises promote new way to make transactions in order to make a real change in the different industries. The users and the enterprises are needed to be directly connected and the trust between them is the most important, this is why it is always going to be important to advance in the cybersecurity department, that can ensure the connection between the two or more subjects included in the process of the financial transactions.  
 
 ## Digital currencies
 
+From Bitcoins to Dogecoins, the digital currencies have been getting a lot of popularity though time because of the success of the Bitcoins and all the technology that has been armored the digital currencies, despite there are many different digital currencies that may become confusing the process to understand what they are and where can they be employed there are many enterprises that have been relying in the cryptocurrencies, big companies like: Tesla, PayPal, and others that have been into the path of digital currencies.  
+
+There are also some governments like the British that have been working in their own banks for acceptance the digital currencies, and that is a clear example of the transcendence of digital currencies, some years ago, in the definition we could have said that the digital currencies are not centralized, and that is not issued by neither a bank or government, now a days it is a way of payment that people take into consideration and that it has financial technology as core. There are also some challenges that will make feel digital currencies unstable, but at the end of the day they are technology based, and they deserve to have a chance in this globalized world. 
 
 ## Technical obstacles and political challenges (like bitcoin in El Salvador country)
 
+To begging with this section, it is needed to understand that all the economy is based on the transactions between one person and another, so in case a government prohibits some practices like the use of digital currencies as a payment method, in case there is no opposition, all those currencies would not exist. Once we stat that point clear, it is needed to understand the context of a country, in our opinion, the bitcoin in El Salvador had two different approaches, one where it did make a great step when stating bitcoin as a payment method, but by making that, they didn’t think in the accessibility to the people that actually live there.  
+
+In terms of technical obstacles, there are many of them, but the ones that we consider the most important are the high level of technical skills in order to achieve something new, and to really appreciate the most of the digital economy, and there are also some challenges that are very abstract and slows down the development of this technologies.  It should become a global goal to achieve in order to develop more features that can work under different situations.  
 
 # Part 2 - Questions & Answers
 
@@ -115,23 +122,28 @@ Volume, velocity, variety, veracity viability, visualization, and value all of t
 Because people be afraid that it is not entirely secure and because of the lack of information or examples of use they may have, these factors were discussed in the talk we had about the blockchain and it was commented that more examples of use would help it to be used, for example that our university degrees would be transacted with blockchain. 
 
 
-## 10.
+## 10.- Can blockchain be used for the transfer of a 50 m x 20 m plot of land and why?
+
+Yes or course, because anything of value can be tracked and traded on a blockchain network. 
+
+## 11.- If you wanted to create a planform with blockchain as engine, what should you use? 
+
+The student should discuss how and why should use Hyperledger, and either if he would use it as a tool or as a framework 
+
+## 12.- What are the challenges of financial transactions?
+
+The use of technology to ensure the correct transactions between two entities, and the political challenges that could evolved because of the context of the individuals, country, and policies that are affecting the process. 
+
+## 13.- Enlist 5 different digital currencies and its value, make a review about the value, and how they have been evolving trough time. 
 
 
-## 11.
+
+## 14.- Which Digital currency was the first in all history, are there governments involved in any digital currency? 
+
+The student might find E-Gold, and should explain the value of that currency and why did it fail and it is not available in the internet anymore. As well talk about the CBDC. 
 
 
-## 12.
-
-
-## 13.
-
-
-
-## 14.
-
-
-## 15.
+## 15.- What is your opinion about this article, do you think it affects the acceptance of digital currencies in the occidental civilization? [link](https://www.bbc.com/news/technology-58678907)  
 
 
 ## 16.
