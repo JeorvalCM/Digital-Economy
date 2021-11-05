@@ -18,7 +18,21 @@ Companies can obtain the following benefits that help employees and companies in
 With the points mentioned above, we can realize how companies are making the most of artificial intelligence, thus achieving greater efficiency and productivity. 
 
 ## Automation and augmentation of work with machine learning algorithms.
+As in the previous point, companies are the ones that take the greatest advantage of machine learning, in this case, it is also possible to obtain greater automation. Among the best examples of automation are banking processes. ML and AI along has diminished the hour of the loaning system, expanding consumer loyalty. From application, pre-screening, examination, assessment, endorsement, and the whole advance reimbursement process, which converts into lost time for both the bank and the client [3]. 
 
+The ML can analyze a huge amount of credit transactions and thanks to its algorithms it can detect and predict fraud, saving time for the bank. This may seem like there will be less work for people, but there will actually be an increase in work for skilled people [4], as automation means an increase in income. 
+
+Some of the areas where there will be more work thanks to ML are as follows: 
+
+* Customer service. 
+
+* Preventive actions. 
+
+* Reduction of errors. 
+
+* Cybersecurity. 
+
+* Fraud detection. 
 
 ## The characteristics of big data and cloud computing.
 
