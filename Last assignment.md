@@ -1,6 +1,7 @@
 # Essay
 
 ## Describe the public acceptance of the technology.
+This relies particularly upon the social setting where it is applied, yet overall different advances have been related with social contentions. In the scholarly setting, there has been expanding interest and thoughtfulness regarding the public acknowledgment of innovations, as it is essential for the direction of the development of human progress. Truth be told, the person's longing for information has driven humankind to investigate the advances of science and apply them to human requirements and requests. Innovation has been characterized as an interaction, development, or mechanical strategy. Although sequentially evolving technologies are not isolated from the society in which they are inserted, they are part of the social environment. We can say that a new technology can bring about radical changes in society, while, on the other hand, the fate of that technology depends on the society in which it is applied. So, we can say that society's negative reaction to innovation might be because of the way that, albeit numerous advancements carry advantages to society, they can likewise present new dangers [1].
 
 
 ## Describe the impact of social networks on information and communication tech (ICT) .
