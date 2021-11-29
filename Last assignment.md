@@ -96,13 +96,13 @@ The principles of bioethics.
 The student should suggest what are the main advantages of a data governance model, and under which concepts are used this model. He should include the definition of that governances 
 
 ## 14. Enlist the requirements that data governance programs have and a brief explication of each of them.
-•	Strategy: Defining, communicating, and driving execution of Data Strategy and Data Governance Strategy 
-•	Policy: Setting and enforcing policies related to data and Metadata management, access, usage, security, and quality 
-•	Standards and quality: Setting and enforcing Data Quality and Data Architecture standards 
-•	Oversight: Providing hands-on observation, audit, and correction in key areas of quality, policy, and data management (often referred to as stewardship)
-•	Compliance: Ensuring the organization can meet data-related regulatory compliance requirements
-•	Issue management: Identifying, defining, escalating, and resolving issues related to data security, data access, data quality, regulatory compliance, data ownership, policy, standards, terminology, or data governance procedures 
-•	Data management projects: Sponsoring efforts to improve data management practices 
-•	Data asset valuation: Setting standards and processes to consistently define the business value of data assets
+*	Strategy: Defining, communicating, and driving execution of Data Strategy and Data Governance Strategy 
+*	Policy: Setting and enforcing policies related to data and Metadata management, access, usage, security, and quality 
+*	Standards and quality: Setting and enforcing Data Quality and Data Architecture standards 
+*	Oversight: Providing hands-on observation, audit, and correction in key areas of quality, policy, and data management (often referred to as stewardship)
+*	Compliance: Ensuring the organization can meet data-related regulatory compliance requirements
+*	Issue management: Identifying, defining, escalating, and resolving issues related to data security, data access, data quality, regulatory compliance, data ownership, policy, standards, terminology, or data governance procedures 
+*	Data management projects: Sponsoring efforts to improve data management practices 
+*	Data asset valuation: Setting standards and processes to consistently define the business value of data assets
 
 
