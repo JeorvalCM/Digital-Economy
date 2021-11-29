@@ -40,3 +40,16 @@ The progressions and advantages achieved by the joining of ICTs into human regul
 
 
 # Questions & Anwers
+
+
+## 1. What is a data management professional? (Jeorval)
+
+ Is the person in charge of working with the data from the technical management of the data throughout its lifecycle to ensuring that the data is properly used and exploited. 
+
+## 2. Do you consider that you as a data engineer could fulfill the data management profile and why? (Jeorval)
+
+According to the definition that the book provides as well as its different ones, it is undoubtedly a position for a data engineer. Maybe with a few differences, but not big. 
+
+## 3. Is data the raw material of information as information is? (Jeorval)
+
+data in context. 
