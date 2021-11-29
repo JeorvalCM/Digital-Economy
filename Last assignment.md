@@ -78,7 +78,7 @@ A Data Management Charter, a data management scope statement and a data manageme
 
 Definitely, because sometimes a bad handling of data can bring unfavorable consequences both to us and to the company where we are working. 
 
-### Pablo's questions
+### Pablo's questions:
 
 ## 9. What are the issues involved in ethical online behavior?
 Ownership of data, the right to be forgotten, Identity & freedom of speech online.
@@ -91,5 +91,18 @@ Yes, because data governance deals with the efficiency and use of information, s
 
 ## 12. which principles serve as a good reference point for data ethics principles?
 The principles of bioethics.
+
+## 13. How important you think data governance is?
+The student should suggest what are the main advantages of a data governance model, and under which concepts are used this model. He should include the definition of that governances 
+
+## 14. Enlist the requirements that data governance programs have and a brief explication of each of them.
+•	Strategy: Defining, communicating, and driving execution of Data Strategy and Data Governance Strategy 
+•	Policy: Setting and enforcing policies related to data and Metadata management, access, usage, security, and quality 
+•	Standards and quality: Setting and enforcing Data Quality and Data Architecture standards 
+•	Oversight: Providing hands-on observation, audit, and correction in key areas of quality, policy, and data management (often referred to as stewardship)
+•	Compliance: Ensuring the organization can meet data-related regulatory compliance requirements
+•	Issue management: Identifying, defining, escalating, and resolving issues related to data security, data access, data quality, regulatory compliance, data ownership, policy, standards, terminology, or data governance procedures 
+•	Data management projects: Sponsoring efforts to improve data management practices 
+•	Data asset valuation: Setting standards and processes to consistently define the business value of data assets
 
 
