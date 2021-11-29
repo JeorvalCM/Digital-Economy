@@ -5,6 +5,8 @@ This relies particularly upon the social setting where it is applied, yet overal
 
 
 ## Describe the impact of social networks on information and communication tech (ICT) .
+With the emergence of social networks, information and communication technology has changed. Among the main things is the creation of information or data, since nowadays cell phones are almost indispensable and the among the main motivations for using social networks is to share information that can be for the purpose of revealing valuable and entertaining content to others, define themselves or to grow and nurture relationships. Both the data that is created and social media have become important to businesses, especially those in commerce, as they see the importance of using social media to connect with customers by generating ideas, stimulating demand, and creating specific product offerings that can generate revenue. Social media has changed recruiting and hiring, for example LinkedIn is an important platform for anyone looking to excel in their profession. Unlike in the past when the people only used email to send your CV. However, social networks can have social problems such as cyberbullying, lack of privacy, identity theft, etc. to sum up social media today makes it easier to access information and it can be applied in many ways today, both positively and negatively [2][3].
+
 
 
 ## Identify skills for the use of ICT in work and life.
