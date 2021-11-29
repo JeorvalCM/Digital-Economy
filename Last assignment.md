@@ -20,6 +20,18 @@ The progressions and advantages achieved by the joining of ICTs into human regul
 
 ## Describe the existing regulation in Employment, Ethics, politics and the data science related regulation.
 
+* Data science and machine learning process should be augmented as much as possible with human interference by designing systems which include human in the loop review. Moreover, especially for the risk assessment tools, one of the critical challenges of the statistical decision-making tools is the phenomenon of automation bias, where the information presented by a machine is viewed as inherently trustworthy and above skepticism. This can lead humans to over-rely on the accuracy or correctness of automated systems. In the end, Subject Matter Experts should be able to validate the results and the process. They should also be sufficiently educated in order to understand the underlying assumptions that accompanied the development of the algorithms [6]. 
+
+* Bias in statistical models must be measured and mitigated as far as tolerance for variance in the estimates allows. One crucial factor that should be considered when training algorithms in risk assessment tools is what is known as the problem of omitted variable bias. Omitted variable bias occurs whenever a model is trained from data that does not include all of the relevant causal factors [6]. 
+
+* Tools must not conflate multiple distinct predictions. For different risks, different scores should be measured as opposed to a single risk reflecting the risk of various outcomes [6]. 
+
++ Model reproducibility. Making a machine learning model reproducible requires the process of abstracting its constituent components, namely data, configuration/environment and computational graph. If all these three points are abstracted, it is possible to have a basis for model reproducibility. It is often essential to decide what the level of abstraction will be, as it is possible to focus on building very complex layers to abstract multiple machine learning libraries with specific data input/output formats [7]. 
+
+* Trust by privacy. Privacy made at the right levels. One fundamental way to establish trust with users and relevant stakeholders is by showing that the proper process and technologies are in place to protect personal data. Technologists should make explicit effort to understand the potential implications of metadata involved and whether the metadata can expose unexpected personal information from relevant users or stakeholders [7]. 
+
+ 
+
 
 ## Describe security strategies and their regulation.
 
