@@ -37,10 +37,26 @@ The progressions and advantages achieved by the joining of ICTs into human regul
 
 
 ## Describe security strategies and their regulation.
+Backup our data: it is about copying those data that are vital for a company or for us, since without that information we could be in big trouble. It can happen in numerous ways, from hard drive inability to ransomware assaults and surprisingly human mistake or actual burglary. Some ways to do this are via USB, external hard drives, cloud storage, dedicated backup services [8]. 
 
+Use the cloud: Using the cloud today is a great alternative for companies, because although it has security risks, these are less likely. Besides that, most of the security and protection of our information is provided by our cloud provider, which usually tends to be updated in the best way in terms of storage and cybersecurity. Allowing us to have confidence in storing our data as we make use of the cloud [8]. 
+
+Invest in infrastructure: To have a better cybersecurity in our companies not only depends on making backups of our data, but to invest in all that infrastructure that allows a better security, such as paying for antivirus licenses, which seem not so relevant things, but to tell the truth a cybercriminal can take advantage of this and hurt us [8]. 
+
+Protection of the physical environment: A cybercriminal can not only attack us remotely. He can also do it by means of social engineering, that is to say, to obtain information in a physical way. For example, a person can disguise himself as an employee of a company and, by not generating suspicion, he can enter the company's premises and delete or steal vital company information. This is why we must have good security practices in our work environment, such as having security cameras, having different layers of security for different accesses, having trained and attentive staff to these situations, having computers or servers with good practices against hackers, and having a good security system in place [9]. 
+
+Use firewall security: With the help of a firewall, which is a set of related programs, we are able to prevent anyone outside the company or the environment in which we are. Access to the data of a private network [10]. 
+
+Security governance: Associations should set up and keep a data security structure that lines up with existing techniques and the board frameworks. This empowers a danger-based way to deal with be applied at all levels, making it more straightforward for us to distinguish security breaks, and to obviously recognize occurrences and react to them rapidly [10]. 
 
 ## Identify the regulatory framework and institutions that affect the digital economy.
+Legislatures (governments) for the most part will generally assume a significant part in encouraging computerized advancement and boosting the improvement of these advances to help society; notwithstanding, administrative systems frequently do not have the spryness to adjust to the expanding speed of technological advances. The OECD and other institutions are trying to address the pace of digitalization and its impacts on society. Some challenges that the institutions need to be attend are [10]: 
 
+Rhythm problem: Digital technologies tend to develop faster than the regulation or social frameworks that govern them. 
+
+Institutional and transboundary: Computerized innovations and digitization overall don't consider public or jurisdictional lines and significantly increment the power of cross-line streams and exchanges. 
+
+Regulatory enforcement: Digitization makes it harder to credit risk for harms brought about by the utilization of innovation to end users. 
 
 # Questions & Anwers
 
@@ -111,7 +127,65 @@ The answer depends on the perspective of the student, but he must mention that c
 ## 16 Which are the two main focus of data governance?
 The student should mention REDUCING RISKS and IMPROVING PROCESSES. Besides that, he should provide at least two approaches of each of the main points. 
 
+## 17. Name 3 different stewards 
 
+Chief Data Stewards may chair data governance bodies in lieu of the CDO or may act as a CDO in a virtual (committee-based) or distributed data governance organization. They may also be Executive Sponsors. 
+
+Executive Data Stewards are senior managers who serve on a Data Governance Council. 
+
+Enterprise Data Stewards have oversight of a data domain across business functions. 
+
+## 18. What is the data asset valuation? 
+
+Data asset valuation is the process of understanding and calculating the economic value of data to an organization. Because data, information, and even Business Intelligence are abstract concepts, people have difficulty aligning them with economic impact. The key to understanding the value of a non-fungible item (like data) is understanding how it is used and the value brought by its usage. 
+
+## 19. Describe the assessment of business alignment 
+
+Sometimes included with the change capacity, a business alignment assessment examines how well the organization aligns uses of data with business strategy. It is often surprising to discover how ad hoc data-related activities can be. 
+
+## 20. Describe the deliverables of the development of a data governance strategy 
+
+Charter: Identifies the business drivers, vision, mission, and principles for data governance, including readiness assessment, internal process discovery, and current issues or success criteria  
+
+Operating framework and accountabilities: Defines structure and responsibility for data governance activities  
+
+Implementation roadmap: Timeframes for the roll out of policies and directives, business glossary, architecture, asset valuation, standards and procedures, expected changes to business and technology processes, and deliverables to support auditing activities and regulatory compliance
+
+Plan for operational success: Describing a target state of sustainable data governance activities 
+
+## 21. What is a Data Governance strategy map’ 
+
+It is a map that connects DG activity with business needs. Periodically measuring and communicating how DG is helping the business is vital to obtain ongoing support for the program. 
+
+## 22. How can we measure the Data Governance program? 
+
+Value  
+
++ Contributions to business objectives  
+
++ Reduction of risk Improved efficiency in operations  
+
+Effectiveness  
+
++ Achievement of goals and objectives  
+
++ Extent stewards are using the relevant tools  
+
++ Effectiveness of communication  
+
++ Effectiveness of education/training  
+
++ Speed of change adoption  
+
+Sustainability 
+
+## 23. What type of workflow is needed for a Data Governance Program? 
+
+Larger organizations may want to consider a robust workflow tool to manage processes, such as the implementation of new data governance policies. These tools connect processes to documents, and can be useful in policy administration and issue resolution. 
+
+## 24. Where can we estimate value? 
+
+Value estimates can be built into a data strategy roadmap that will justify business cases for root cause solutions to quality issues, as well as for other governance initiatives 
 
 
 
