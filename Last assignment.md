@@ -66,3 +66,11 @@ Undoubtedly each of the challenges has its difficulties, but the challenge that 
 ## 6. What should a data management strategy be based on and why? (Jeorval)
 
 In business plans to use information for competitive advantage and support the company's objectives. 
+
+## 7. What are the deliverables for a strategic plan for data management? (Jeorval)
+
+A Data Management Charter, a data management scope statement and a data management Implementation Roadmap 
+
+## 8. As a data engineering student, do you think there should be a data ethics course? (Jeorval)
+
+Definitely, because sometimes a bad handling of data can bring unfavorable consequences both to us and to the company where we are working. 
