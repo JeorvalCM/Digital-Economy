@@ -53,3 +53,16 @@ According to the definition that the book provides as well as its different ones
 ## 3. Is data the raw material of information as information is? (Jeorval)
 
 data in context. 
+
+
+## 4. Do you consider data governance to be a subset of data management or vice versa and why? (Jeorval)
+
+Data governance is a subset of data management. This is because data governance is more focused on documentation with the respective policies and procedures. Data management, on the other hand, is focused on both the documentation and the realization of data for decision making. 
+
+## 5. Of the various data management challenges you may face, which do you consider to be the most complicated and why? (Jeorval)
+
+Undoubtedly each of the challenges has its difficulties, but the challenge that surrounds the other challenges is "data differs from other assets" because without data there can be no other challenges you may face in data management. 
+
+## 6. What should a data management strategy be based on and why? (Jeorval)
+
+In business plans to use information for competitive advantage and support the company's objectives. 
