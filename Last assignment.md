@@ -77,3 +77,19 @@ A Data Management Charter, a data management scope statement and a data manageme
 ## 8. As a data engineering student, do you think there should be a data ethics course? (Jeorval)
 
 Definitely, because sometimes a bad handling of data can bring unfavorable consequences both to us and to the company where we are working. 
+
+### Pablo's questions
+
+## 9. What are the issues involved in ethical online behavior?
+Ownership of data, the right to be forgotten, Identity & freedom of speech online.
+
+## 10. Do you think that in the future there will be stricter laws regarding data mining?
+It is the safest thing to do, since data science-related fields have not been around for many years.
+
+## 11. Are ethics related to data governance and why?
+Yes, because data governance deals with the efficiency and use of information, so ethics has to come into play in order to get along with data governance.
+
+## 12. which principles serve as a good reference point for data ethics principles?
+The principles of bioethics.
+
+
