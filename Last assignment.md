@@ -121,30 +121,30 @@ The student should mention REDUCING RISKS and IMPROVING PROCESSES. Besides that,
 
 
 ## References:
-[1] Almarashdeh, I., & Alsmadi, M. (2016, November). Investigating the acceptance of technology in distance learning program. In 2016 International Conference on Information Science and Communications Technologies (ICISCT) (pp. 1-5). IEEE.
-[2] Jong, D. (n.d.). The Impact of Social Media Usage on Work Efficiency: The 
+- [1] Almarashdeh, I., & Alsmadi, M. (2016, November). Investigating the acceptance of technology in distance learning program. In 2016 International Conference on Information Science and Communications Technologies (ICISCT) (pp. 1-5). IEEE.
+- [2] Jong, D. (n.d.). The Impact of Social Media Usage on Work Efficiency: The 
 Perspectives of Media Synchronicity and Gratifications. Frontiers. Retrieved November 26, 
 2021, from https://www.frontiersin.org/articles/10.3389/fpsyg.2021.693183/full
-[3] Haythornthwaite, C. (2005). Social networks and Internet connectivity effects. Information, Community & Society, 8(2), 125-147.
-[4] Team, T. W. (2021, October 25). What Are ICT Skills – And Why Might They Be 
+- [3] Haythornthwaite, C. (2005). Social networks and Internet connectivity effects. Information, Community & Society, 8(2), 125-147.
+- [4] Team, T. W. (2021, October 25). What Are ICT Skills – And Why Might They Be 
 Required? Wikijob. Retrieved November 27, 2021, from 
 https://www.wikijob.co.uk/content/application-advice/job-applications/what-are-ict-skills
-[5] Arora, A. (2020, May 14). ICT skills divide: Are all of today’s youth prepared for the 
+- [5] Arora, A. (2020, May 14). ICT skills divide: Are all of today’s youth prepared for the 
 digital economy? Evidence for Action. Retrieved November 27, 2021, from 
 https://blogs.unicef.org/evidence-for-action/ict-skills-divide-todays-youth-prepared-digital-
 economy/
-[6] Zempekakis, I. (2019, September 30). Regulation and Ethics in Data Science and 
+- [6] Zempekakis, I. (2019, September 30). Regulation and Ethics in Data Science and 
 Machine Learning. Medium. Retrieved November 27, 2021, from 
 https://towardsdatascience.com/regulation-and-ethics-in-data-science-and-machine-
 learning-8120aeb7cd59
-[7] Nemitz, P. (2018). Constitutional democracy and technology in the age of artificial intelligence. Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences, 376(2133), 20180089.
-[8] Victoria’s Cyber Security Strategy is here (2021) - G+T. (2021, November 26). Gtlaw. 
+- [7] Nemitz, P. (2018). Constitutional democracy and technology in the age of artificial intelligence. Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences, 376(2133), 20180089.
+- [8] Victoria’s Cyber Security Strategy is here (2021) - G+T. (2021, November 26). Gtlaw. 
 Retrieved November 28, 2021, from https://www.gtlaw.com.au/knowledge/victorias-cyber-
 security-strategy-2021
-[9] Small Business Trends LLC. (2021, September 7). 6 Cyber Security Strategies To 
+- [9] Small Business Trends LLC. (2021, September 7). 6 Cyber Security Strategies To 
 Protect Your Small Business. Small Business Trends. Retrieved November 28, 2021, from 
 https://smallbiztrends.com/2016/06/cyber-security-strategies.html
-[10] BearingPoint. (2019, November 28). Could regulation put the brakes on the digital 
+- [10] BearingPoint. (2019, November 28). Could regulation put the brakes on the digital 
 economy? Retrieved November 28, 2021, from https://www.bearingpoint.com/en/our-
 success/insights/could-regulation-put-the-brakes-on-the-digital-economy/
 
